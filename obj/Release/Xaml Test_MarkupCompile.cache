@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\basyp\source\repos\Xaml Test\obj\Debug\
+C:\Users\basyp\source\repos\Xaml Test\obj\Release\
 Xaml_Test
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\basyp\source\repos\Xaml Test\App.xaml
 4-708182886
-
-91822491645
-35648145719
+51001242449
+101326182639
+143-866876653
 LoginWindow.xaml;MainWindow.xaml;RegistrationWindow.xaml;Welcome.xaml;
 
-False
+True
 
