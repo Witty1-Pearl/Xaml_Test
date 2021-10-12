@@ -1,0 +1,80 @@
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\Xaml Test.csprojAssemblyReference.cache
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\LoginWindow.g.cs
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\MainWindow.g.cs
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\RegistrationWindow.g.cs
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\Welcome.g.cs
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\App.g.cs
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\Xaml Test_MarkupCompile.cache
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\Xaml Test_MarkupCompile.lref
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\Xaml Test.exe.config
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\Xaml Test.exe
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\Xaml Test.pdb
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\Automatonymous.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\C1.WPF.4.5.2.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\GreenPipes.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\MassTransit.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\NewId.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.Buffers.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.Memory.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.Threading.Channels.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.ValueTuple.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\Automatonymous.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\C1.WPF.4.5.2.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\GreenPipes.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\MassTransit.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\NewId.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.Buffers.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.Memory.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.Threading.Channels.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\System.ValueTuple.xml
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\ar\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\cs\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\da\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\de\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\el\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\es\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\fi\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\fr\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\he\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\it\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\ja\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\ko\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\nl\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\no\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\pl\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\pt\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\ro\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\ru\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\sk\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\sv\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\tr\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\zh\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\zh-Hans\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\bin\Debug\zh-Hant\C1.WPF.4.5.2.resources.dll
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\LoginWindow.baml
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\MainWindow.baml
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\RegistrationWindow.baml
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\Welcome.baml
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\Xaml Test.g.resources
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\Xaml_Test.Properties.Resources.resources
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\Xaml Test.csproj.GenerateResource.cache
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\Xaml Test.csproj.CoreCompileInputs.cache
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\Xaml Test.csproj.CopyComplete
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\Xaml Test.exe
+C:\Users\basyp\source\repos\Xaml Test\obj\Debug\Xaml Test.pdb
